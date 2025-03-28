@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Anshu Jod! 👋</h1>
+<h1 align="center">Hi there, I'm Anshu! 👋</h1>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### 🚀 About Me:
 - 🎓 B.Tech in Electronics and Telecommunications  
 - 💻 Passionate about **Full-Stack Development & DSA**  
-- ⚡ Learning **Tech Placements, CS Fundamentals & Civil Services**  
+- ⚡ Learning **Tech Placements, CS Fundamentals & Web Development**  
 - 🏆 Former Intern at **Tata Steel UISL**  
 - 📈 Exploring AI, IoT, and Startups  
 
@@ -32,7 +32,7 @@
 ---
 
 ### 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshujod/](https://www.linkedin.com/in/anshu-prakash-496a641b9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/anshu-prakash-496a641b9/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
