@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:0F766E,100:F59E0B&text=Anshu%20Prakash&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA-Driven%20Builder%20%7C%20AI-Curious&descAlignY=60&descSize=18&animation=twinkling" alt="Anshu Prakash banner" />
-</p>
-
-<h1 align="center">Hey! I'm Anshu</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=22&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&width=950&lines=MERN+Stack+%7C+Python+%7C+DSA+%7C+System+Design+Mindset;Electronics+background%2C+software-first+execution;Focused+on+clean+builds%2C+clear+logic%2C+and+real+impact" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,45:0F766E,100:F59E0B&text=Hi,%20I%20am%20Anshu&fontColor=F8FAFC&fontSize=58&stroke=E2E8F0&animation=fadeIn" alt="Hi, I am Anshu" />
 </p>
 
 <p align="center">
@@ -14,24 +8,6 @@
   <a href="https://portfolio-website-dun-two-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/anshujod"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Telecommunication-E2E8F0?style=flat-square&labelColor=0F172A" alt="B.Tech" />
-  <img src="https://img.shields.io/badge/Former%20Intern-Tata%20Steel%20UISL-F8FAFC?style=flat-square&labelColor=0F766E" alt="Tata Steel UISL" />
-  <img src="https://img.shields.io/badge/Focus-SDE%20%7C%20Full%20Stack-F8FAFC?style=flat-square&labelColor=F59E0B" alt="Focus" />
-</p>
-
----
-
-## About
-
-<p align="center">
-I started in Electronics &amp; Telecommunications, but the pull toward software was impossible to ignore. What began as curiosity around logic and systems turned into a serious focus on building full-stack products, sharpening DSA every day, and understanding how good software balances scale, simplicity, and user experience.
-</p>
-
-<p align="center">
-I enjoy the kind of engineering where product sense meets technical depth: real-time apps, thoughtful backend architecture, clean frontend execution, and the quiet discipline of writing code that teams can trust.
 </p>
 
 ---
@@ -66,83 +42,11 @@ I treat problem solving as daily engineering training, not just interview prep. 
 <p align="center">
   <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-Active-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-0F766E?style=flat-square" alt="Problems Solved" />
   <img src="https://img.shields.io/badge/Core%20Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Core Language" />
 </p>
 
 <p align="center">
-  3rd place in a GDSC Capture the Flag challenge and 1st place at RIT Techfest Aavishkaar 2025.
-</p>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Chatify</h3>
-      <p align="center">
-        <a href="https://chatify-app-a66h.onrender.com/">Live</a> •
-        <a href="https://github.com/anshujod/Chat_App">Repository</a>
-      </p>
-      <p>
-        A real-time messaging platform built for secure, scalable communication with Socket.IO, JWT-based auth, Arcjet protection, and Zustand-powered state management.
-      </p>
-      <p><strong>Focus:</strong> real-time architecture, auth flows, performance, UX consistency.</p>
-      <p><strong>Stack:</strong> MERN, Socket.IO, JWT, Zustand, Arcjet.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">AI ThumbnailGen</h3>
-      <p align="center">
-        <a href="https://github.com/anshujod/AI_thumbnail">Repository</a>
-      </p>
-      <p>
-        A credit-based AI SaaS concept that generates thumbnails from video ideas using OpenAI, object storage, payments, and a modern app workflow.
-      </p>
-      <p><strong>Focus:</strong> AI product thinking, SaaS flows, external API integration, monetization logic.</p>
-      <p><strong>Stack:</strong> React, OpenAI, AWS S3, Supabase, Razorpay.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Expense Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/anshujod/expensetracker">Repository</a>
-      </p>
-      <p>
-        A full-stack expense management app for tracking income, spending, and transaction history through a simple, responsive interface.
-      </p>
-      <p><strong>Focus:</strong> practical product design, CRUD reliability, clean UI, user-first data workflows.</p>
-      <p><strong>Stack:</strong> React, Node.js, MongoDB, JavaScript, HTML/CSS.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/anshujod/mern_auth">Also built:</a> a MERN Authentication System covering signup, login, email verification, password reset, and logout workflows.
-</p>
-
----
-
-## Contribution Philosophy
-
-<p align="center">
-  Clarity over noise • Ownership over excuses • Shipping over overthinking • Fundamentals before hype
-</p>
-
-<p align="center">
-I like codebases that feel calm: readable components, predictable APIs, sensible abstractions, and decisions that make future iterations easier instead of harder.
-</p>
-
----
-
-## Developer Mindset
-
-<p align="center">
-My goal is simple: build software that feels elegant to users and dependable to teams.
-</p>
-
-<p align="center">
-That means staying strong on fundamentals, learning fast, communicating clearly, and bringing the same seriousness to problem solving, product details, and system design.
+  <img src="https://leetcard.jacoblin.cool/anshujod?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode solved questions tracker" />
 </p>
 
 ---
@@ -161,23 +65,12 @@ That means staying strong on fundamentals, learning fast, communicating clearly,
 
 ---
 
-## What I Bring to a Team
+## About
 
 <p align="center">
-Strong DSA discipline, product-aware full-stack execution, internship exposure to real-world problem statements, and the kind of curiosity that keeps compounding.
+I started in Electronics &amp; Telecommunications, but the pull toward software was impossible to ignore. What began as curiosity around logic and systems turned into a serious focus on building full-stack products, sharpening DSA every day, and understanding how good software balances scale, simplicity, and user experience.
 </p>
 
 <p align="center">
-I am especially interested in SDE and full-stack roles where I can contribute early, learn from strong teams, and build systems that matter.
-</p>
-
----
-
-## Visual Direction
-
-<p align="center">
-  <strong>Banner idea:</strong> a dark terminal-meets-blueprint scene with subtle grid lines, browser windows, and system diagrams.<br />
-  <strong>Theme:</strong> Midnight Slate <code>#0F172A</code> • Deep Teal <code>#0F766E</code> • Warm Amber <code>#F59E0B</code> • Cloud Silver <code>#E2E8F0</code><br />
-  <strong>Best widgets:</strong> GitHub Stats • Streak Stats • Top Languages • Activity Graph<br />
-  <strong>Motion:</strong> typing headline, waving banner, and a subtle contribution snake for the final polish
+I enjoy the kind of engineering where product sense meets technical depth: real-time apps, thoughtful backend architecture, clean frontend execution, and the quiet discipline of writing code that teams can trust.
 </p>
