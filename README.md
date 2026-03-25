@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=2200&pause=900&color=F8FAFC&center=true&vCenter=true&width=780&lines=Hi,+I+am+Anshu;Connect+with+me" alt="Hi, I am Anshu typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=2200&pause=900&color=F8FAFC&center=true&vCenter=true&width=780&lines=Hi,+I+am+Anshu;Connect+with+me+%3A)" alt="Hi, I am Anshu typing animation" />
 </p>
 
 <p align="center">
