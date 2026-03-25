@@ -54,9 +54,13 @@
 ## About
 
 <p align="center">
-I started in Electronics &amp; Telecommunications, but the pull toward software was impossible to ignore. What began as curiosity around logic and systems turned into a serious focus on building full-stack products, sharpening DSA every day, and understanding how good software balances scale, simplicity, and user experience.
+I am a full-stack engineer driven by curiosity, speed, and impact.
+I enjoy building systems that move from idea → prototype → production with clarity and purpose.
+My focus areas include real-time applications, scalable backend design, and performance-aware frontend engineering.
+
 </p>
 
 <p align="center">
-I enjoy the kind of engineering where product sense meets technical depth: real-time apps, thoughtful backend architecture, clean frontend execution, and the quiet discipline of writing code that teams can trust.
+Alongside product development, I actively strengthen my problem-solving ability through consistent algorithmic practice.
+I believe great engineering is a blend of technical rigor, product sense, and disciplined execution.
 </p>
