@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:0F766E,100:F59E0B&text=Anshu%20Prakash&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA-Driven%20Builder%20%7C%20AI-Curious&descAlignY=60&descSize=18&animation=twinkling" alt="Anshu Prakash banner" />
 </p>
 
-<h1 align="center">Building product-grade full-stack systems with startup speed and algorithmic discipline.</h1>
+<h1 align="center">Hey! I'm Anshu</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=22&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&width=950&lines=MERN+Stack+%7C+Python+%7C+DSA+%7C+System+Design+Mindset;Electronics+background%2C+software-first+execution;Focused+on+clean+builds%2C+clear+logic%2C+and+real+impact" alt="Typing animation" />
