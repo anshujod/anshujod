@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,45:0F766E,100:F59E0B&text=Hi,%20I%20am%20Anshu&fontColor=F8FAFC&fontSize=58&stroke=E2E8F0&animation=fadeIn" alt="Hi, I am Anshu" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=2200&pause=900&color=F8FAFC&center=true&vCenter=true&width=780&lines=Hi,+I+am+Anshu;Connect+with+me" alt="Hi, I am Anshu typing animation" />
 </p>
 
 <p align="center">
@@ -8,6 +8,10 @@
   <a href="https://portfolio-website-dun-two-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/anshujod"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anshujod?theme=dark&font=Space%20Mono&ext=activity&border=0&radius=8&width=360" alt="LeetCode solved counter" />
 </p>
 
 ---
@@ -29,24 +33,12 @@
   <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS S3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-## DSA and Competitive Programming
-
-<p align="center">
-I treat problem solving as daily engineering training, not just interview prep. DSA sharpens the way I design APIs, reason about trade-offs, and debug under pressure.
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-Active-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/Core%20Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Core Language" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anshujod?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode solved questions tracker" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 ---
