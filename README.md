@@ -10,12 +10,6 @@
   <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anshujod?theme=dark&font=Space%20Mono&ext=activity&border=0&radius=8&width=360" alt="LeetCode solved counter" />
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
