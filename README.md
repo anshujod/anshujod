@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=2200&pause=900&color=F8FAFC&center=true&vCenter=true&width=780&lines=Hi,+I+am+Anshu;Connect+with+me" alt="Hi, I am Anshu typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=2200&pause=900&color=F8FAFC&center=true&vCenter=true&width=780&lines=Hi,+I+am+Anshu;Connect+with+me+ :)" alt="Hi, I am Anshu typing animation" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-## GitHub Signal
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshujod&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=CBD5E1&icon_color=14B8A6&rank_icon=github" alt="GitHub stats" />
