@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Vector_Databases-6D28D9?style=for-the-badge&logoColor=white" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS S3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -58,6 +66,10 @@ I am a full-stack engineer driven by curiosity, speed, and impact.
 I enjoy building systems that move from idea → prototype → production with clarity and purpose.
 My focus areas include real-time applications, scalable backend design, and performance-aware frontend engineering.
 
+</p>
+
+<p align="center">
+I'm now expanding into AI engineering — building with LLMs, RAG pipelines, and AI agents using LangChain and LangGraph, and working with vector databases like ChromaDB.
 </p>
 
 <p align="center">
