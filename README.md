@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anshu-prakash-496a641b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anshuprakash55@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-website-dun-two-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://anshu-os.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/anshujod"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/anshujod/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
